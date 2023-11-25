@@ -1,0 +1,26 @@
+/* Normalize */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul li {
+    list-style: none;
+}
+
+button {
+    border: 0;
+    background: 0;
+    outline: 0;
+}
+
+/* General */
+.container {
+    width: 1360px;
+    margin: 0 auto;
+}
